@@ -1,0 +1,42 @@
+{
+  "name": "Ivo Ivey",
+  "email": "ivo.ivey@example.com",
+  "phone": "+00 555 264 6765",
+  "location": "Pune",
+  "summary": "Engineer with 10 years of experience. Likes clear tests and short pull requests.",
+  "skills": [
+    "AWS basics",
+    "Testing",
+    "PostgreSQL",
+    "Python",
+    "SQL",
+    "Git",
+    "Java"
+  ],
+  "experience": [
+    {
+      "job_title": "Support Engineer, Alderbrook Systems, 2021 to 2025",
+      "company": "Alderbrook Systems",
+      "start_year": 2021,
+      "end_year": 2025
+    },
+    {
+      "job_title": "DevOps Engineer, Quillfeather Data, 2018 to 2021",
+      "company": "Quillfeather Data",
+      "start_year": 2018,
+      "end_year": 2021
+    },
+    {
+      "job_title": "Business Analyst, Larkfield Labs, 2015 to 2018",
+      "company": "Larkfield Labs",
+      "start_year": 2015,
+      "end_year": 2018
+    }
+  ],
+  "education": [
+    {
+      "degree": "B.Tech Computer Science",
+      "graduation_year": 2014
+    }
+  ]
+}

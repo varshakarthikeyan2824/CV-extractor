@@ -1,0 +1,3 @@
+Model,Platform,CVs_Tested,Accuracy_Percent,Average_Time_Seconds,Failures
+qwen2.5:0.5b,Ollama,10,100,N/A,0
+openai/gpt-oss-120b,Groq,10,100,1.66,0
